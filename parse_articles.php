@@ -1,6 +1,4 @@
 <?php
-header("Content-Type: text/html; charset=utf-8");
-
 // Подключение к базе данных
 $host = "localhost";
 $username = "root";
